@@ -1,0 +1,38 @@
+{
+    "+380939664681": {
+        "first_name": "Olesia",
+        "last_name": "Barannik",
+        "full_name": "Olesia Barannik",
+        "address": {
+            "state": "Kyiv",
+            "city": "Kyiv"
+        }
+    },
+    "+38096-748-23-95": {
+        "first_name": "Olesia",
+        "last_name": "Barannik",
+        "full_name": "Olesia Barannik",
+        "address": {
+            "state": "Kyiv",
+            "city": "Kyiv"
+        }
+    },
+    "+38066-777-11-22": {
+        "first_name": "Samvel",
+        "last_name": "Sarkisian",
+        "full_name": "Samvel Sarkisian",
+        "address": {
+            "state": "Kyiv",
+            "city": "Kyiv"
+        }
+    },
+    "+380-11-222-33-44": {
+        "first_name": "Samvel",
+        "last_name": "Test",
+        "full_name": "Samvel Test",
+        "address": {
+            "state": "test",
+            "city": "Kyiv"
+        }
+    }
+}
